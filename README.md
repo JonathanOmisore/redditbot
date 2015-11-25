@@ -1,2 +1,2 @@
 # redditbot
-Bot for reddit
+Bot for reddit. Written in Python
